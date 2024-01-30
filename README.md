@@ -3,9 +3,6 @@
 <h2> I am a Software Development Engineering student. Currently, I am in the eighth and final semester of my degree  </h2>
 </div>
 
-### Curricular Map of my career
-<img src="https://i.ibb.co/ySnPGJv/ING-DESARROLLO-SOFTWARE-page-0001.png">
-
 ### Professional skills
 
 - 🖥️ Operating Systems: Windows and Linux
@@ -16,3 +13,6 @@
 - 💻 Source Code Editor: Visual Studio Code
 - 🎮 Version Control Tools: Git
 - 🫱🏾‍🫲🏽Collaborative Development Platform: GitHub
+
+### Curricular Map of my career
+<img src="https://i.ibb.co/ySnPGJv/ING-DESARROLLO-SOFTWARE-page-0001.png">
