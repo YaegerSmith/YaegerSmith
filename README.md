@@ -12,7 +12,7 @@
 - 💻 Integrated Development Environments: Visual Studio and Apache NetBeans
 - 💻 Source Code Editor: Visual Studio Code
 - 🎮 Version Control Tools: Git
-- 🫱🏾‍🫲🏽Collaborative Development Platform: GitHub
+- 🤝🏽Collaborative Development Platform: GitHub
 
 ### Curricular Map of my career
 <img src="https://i.ibb.co/ySnPGJv/ING-DESARROLLO-SOFTWARE-page-0001.png">
