@@ -1,6 +1,6 @@
 <div>
-<h1 align="center">Hello, i am Esteban Vazquez Espinoza 👋🏽</h1>
-<h2> I am a Software Development Engineering student. Currently, I am in the eighth and final semester of my degree  </h2>
+<h1 align="center">Hello, I'm Esteban 👋🏽</h1>
+<h2>I'm a Software Development Engineering student. Currently, I'm in the eighth and final semester of my degree 👨🏽‍🎓</h2>
 </div>
 
 ### Professional skills
