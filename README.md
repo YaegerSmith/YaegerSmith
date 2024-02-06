@@ -18,7 +18,9 @@
 - 📘 Notebooks: Google Colab, Jupyter Notebook and Deepnote
 - 💻 Integrated Development Environments: Visual Studio and Apache NetBeans
 - 💻 Source Code Editor: Visual Studio Code
-- 🎮 Version Control Tools: Git
+- 🎮 Version Control Tools:
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
 - 🤝🏽Collaborative Development Platform: GitHub
 
 ### Curricular Map of my career
