@@ -22,6 +22,3 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 - 🤝🏽Collaborative Development Platform: GitHub
-
-### Curricular Map of my career
-<img src="https://i.ibb.co/ySnPGJv/ING-DESARROLLO-SOFTWARE-page-0001.png">
